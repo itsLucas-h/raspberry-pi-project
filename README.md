@@ -1,0 +1,4 @@
+
+# Raspberry Pi Project
+
+This repository contains the group project for the ENSE810 Embedded Software Engineering course, focused on developing software for an embedded system using the Raspberry Pi platform. The project involves hands-on learning through a series of labs and tutorials covering Python programming, hardware integration, version control, UML modelling, multithreading, and database management. Working in a team of three, we apply these techniques to design and implement a functional embedded system, demonstrating a systematic development process from initial setup to final presentation.
